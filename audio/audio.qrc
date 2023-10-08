@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/audio">
+        <file>clicked.wav</file>
+        <file>start.wav</file>
+        <file>border.wav</file>
+        <file>tick.wav</file>
+    </qresource>
+</RCC>
